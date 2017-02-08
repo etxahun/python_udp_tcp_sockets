@@ -1,0 +1,4 @@
+Referencias:
+
+  - https://wiki.python.org/moin/TcpCommunication
+  - https://pymotw.com/2/socket/tcp.html

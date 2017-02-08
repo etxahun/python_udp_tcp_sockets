@@ -1,0 +1,4 @@
+Referencias:
+
+ - http://www.binarytides.com/programming-udp-sockets-in-python/
+ - https://pymotw.com/2/socket/udp.html
